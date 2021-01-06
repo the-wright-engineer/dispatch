@@ -12,7 +12,7 @@
     "@sentry/browser": "^5.11.0",
     "@sentry/integrations": "^5.11.0",
     "apexcharts": "^3.15.5",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "date-fns": "^2.9.0",
     "font-awesome": "^4.7.0",
     "lodash.truncate": "^4.4.2",
